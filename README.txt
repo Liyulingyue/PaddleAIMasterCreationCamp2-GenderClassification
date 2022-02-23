@@ -5,4 +5,4 @@
 # 如何使用
 
 1) 导入main.inbpy 或者
-2) 跳转至https://aistudio.baidu.com/aistudio/projectdetail/3509092进行一键fork和运行
+2) 跳转至 https://aistudio.baidu.com/aistudio/projectdetail/3509092 进行一键fork和运行
